@@ -1,0 +1,51 @@
+{
+  "output": "renders/gimbal.gif",
+  "gimbal": 0.0,
+  "gimbal_genlik": 5.0,
+  "fon": {
+    "color": [
+      0.008,
+      0.009,
+      0.012
+    ],
+    "strength": 1.0
+  },
+  "zemin": {
+    "color": [
+      0.05,
+      0.05,
+      0.055
+    ],
+    "roughness": 0.5
+  },
+  "isik": {
+    "ana": 2200,
+    "dolgu": 500,
+    "rim": 4000,
+    "ana_konum": [
+      8,
+      -9,
+      5
+    ]
+  },
+  "camera": {
+    "position": [
+      6,
+      -7,
+      1.4
+    ],
+    "look_at": [
+      0,
+      0,
+      0.8
+    ],
+    "lens": 50
+  },
+  "render": {
+    "width": 1280,
+    "height": 720,
+    "samples": 48,
+    "exposure": 0.1,
+    "look": "Medium High Contrast"
+  }
+}

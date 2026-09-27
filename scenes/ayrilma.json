@@ -1,0 +1,63 @@
+{
+  "output": "renders/kademe_ayrilmasi.png",
+  "gimbal": 0.0,
+  "ayrilma": 5.0,
+  "fon": {
+    "color": [
+      0.006,
+      0.008,
+      0.016
+    ],
+    "strength": 1.0
+  },
+  "zemin": {
+    "color": [
+      0.02,
+      0.02,
+      0.024
+    ],
+    "roughness": 0.3,
+    "metalik": 0.1
+  },
+  "isik": {
+    "ana": 3400,
+    "dolgu": 900,
+    "rim": 6000,
+    "ana_konum": [
+      10,
+      -20,
+      36
+    ],
+    "dolgu_konum": [
+      14,
+      -10,
+      8
+    ],
+    "rim_konum": [
+      4,
+      20,
+      30
+    ]
+  },
+  "camera": {
+    "position": [
+      52,
+      -28,
+      33
+    ],
+    "look_at": [
+      0,
+      0,
+      33
+    ],
+    "lens": 35
+  },
+  "render": {
+    "width": 1600,
+    "height": 900,
+    "samples": 192,
+    "exposure": 0.3,
+    "look": "Medium High Contrast"
+  },
+  "havada": 14
+}

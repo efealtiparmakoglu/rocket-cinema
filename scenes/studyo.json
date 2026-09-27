@@ -1,0 +1,45 @@
+{
+  "output": "renders/roket_hero.png",
+  "gimbal": 2.0,
+  "fon": {
+    "color": [
+      0.01,
+      0.011,
+      0.014
+    ],
+    "strength": 1.0
+  },
+  "zemin": {
+    "color": [
+      0.075,
+      0.075,
+      0.08
+    ],
+    "roughness": 0.4
+  },
+  "isik": {
+    "ana": 3800,
+    "dolgu": 700,
+    "rim": 4600
+  },
+  "camera": {
+    "position": [
+      52,
+      -48,
+      28
+    ],
+    "look_at": [
+      0,
+      0,
+      21
+    ],
+    "lens": 26
+  },
+  "render": {
+    "width": 1600,
+    "height": 900,
+    "samples": 192,
+    "exposure": 0.35,
+    "look": "Medium High Contrast"
+  }
+}
